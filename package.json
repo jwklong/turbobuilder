@@ -17,10 +17,11 @@
 	"type": "module",
 	"dependencies": {
 		"@blockly/continuous-toolbox": "^5.0.2",
-		"@blockly/theme-dark": "^6.0.1",
 		"@blockly/field-colour-hsv-sliders": "^4.1.6",
+		"@blockly/theme-dark": "^6.0.1",
 		"@blockly/workspace-minimap": "^0.1.5",
 		"@sveltejs/adapter-vercel": "^3.0.2",
+		"blockly": "^11.1.1",
 		"file-saver": "^2.0.5",
 		"js-beautify": "^1.14.9",
 		"jszip": "^3.10.1",
