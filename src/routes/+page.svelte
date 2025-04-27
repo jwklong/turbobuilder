@@ -354,7 +354,7 @@
     };
 
     function discordInvite() {
-        window.open("https://discord.gg/eVQdK8csJc")
+        window.open("https://discord.gg/NeYug9v2hq")
     }
 </script>
 
